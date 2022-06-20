@@ -1,0 +1,23 @@
+body{
+   background-color: rgb(236, 232, 232);
+}
+
+.header_div{
+    background-color: rgb(139, 132, 132);
+    font-weight: bold;
+    z-index: 9999;
+    color: white;
+    font-family: italic;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
